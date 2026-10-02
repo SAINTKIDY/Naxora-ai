@@ -1,0 +1,12 @@
+Naxora-ai/
+├── index.js
+├── package.json
+├── config.js
+├── .env.example
+├── commands/
+│   ├── menu.js
+│   ├── ping.js
+│   └── ai.js
+├── lib/
+│   └── handler.js
+└── README.md
